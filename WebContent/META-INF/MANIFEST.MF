@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: 
+Dependencies: org.jboss.msc,org.jboss.as.controller-client,org.jboss.as.controller,org.jboss.as.server, org.jboss.dmr
