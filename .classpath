@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.jboss.ide.eclipse.as.classpath.core.ejb3.classpathContainer/JBoss 7.2.0 Alpha1 Runtime Server"/>
+	<classpathentry kind="con" path="org.jboss.ide.eclipse.as.classpath.core.javaee-5.0"/>
+	<classpathentry kind="lib" path="/home/ochaloup/jboss/jboss-as-7/build/target/jboss-as-7.2.0.Alpha1-SNAPSHOT/bin/client/jboss-client.jar"/>
+	<classpathentry kind="lib" path="/home/ochaloup/jboss/jboss-as-7/build/target/jboss-as-7.2.0.Alpha1-SNAPSHOT/modules/javax/servlet/api/main/jboss-servlet-api_3.0_spec-1.0.2.Final.jar"/>
+	<classpathentry kind="lib" path="/home/ochaloup/jboss/jboss-as-7/build/target/jboss-as-7.2.0.Alpha1-SNAPSHOT/modules/org/jboss/as/controller/main/jboss-as-controller-7.2.0.Alpha1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/home/ochaloup/jboss/jboss-as-7/build/target/jboss-as-7.2.0.Alpha1-SNAPSHOT/modules/org/jboss/msc/main/jboss-msc-1.0.3.GA.jar"/>
+	<classpathentry kind="lib" path="/home/ochaloup/jboss/jboss-as-7/build/target/jboss-as-7.2.0.Alpha1-SNAPSHOT/modules/org/jboss/as/server/main/jboss-as-server-7.2.0.Alpha1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/home/ochaloup/jboss/jboss-as-7/build/target/jboss-as-7.2.0.Alpha1-SNAPSHOT/modules/org/jboss/as/controller-client/main/jboss-as-controller-client-7.2.0.Alpha1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/home/ochaloup/jboss/jboss-as-7/build/target/jboss-as-7.2.0.Alpha1-SNAPSHOT/modules/javax/inject/api/main/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="/home/ochaloup/jboss/jboss-as-7/build/target/jboss-as-7.2.0.Alpha1-SNAPSHOT/modules/org/jboss/dmr/main/jboss-dmr-1.1.4.Final.jar"/>
+	<classpathentry kind="lib" path="/home/ochaloup/jboss/jboss-as-7/build/target/jboss-as-7.2.0.Alpha1-SNAPSHOT/modules/org/apache/log4j/main/log4j-1.2.16.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
